@@ -21,4 +21,3 @@ It runs into the border; or
 It runs into itself; or
 The user attempts to reverse the snake's direction.
 The user wins the game if the snake's length grows to the length equal to half the perimeter of the border.
-
